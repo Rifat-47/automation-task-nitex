@@ -49,7 +49,7 @@ except AssertionError as e:
 
 # verifying the event date
 try:
-    assert event_date == "2024-02-09"
+    assert event_date == "2024-02-15"
 except AssertionError as e:
     errors.append("Assertion error for event date")
 
