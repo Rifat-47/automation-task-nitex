@@ -13,6 +13,8 @@ The test should be executable on Chrome browser.
 
 
 ## Run Locally
+As we are assuming, it's a web application, to run locally, we need to add the correct url and xpath for the elements. 
+The process to run locally is given below:
 
 Clone the project
 
